@@ -122,7 +122,14 @@ function App() {
                 Contact Me
               </a>
             </div>
-
+            <a
+              href="/documents/Arga-Dwi-Prastyo-CV.pdf"
+              className="btn-cv"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              View My CV ↗
+            </a>
             <div className="hero-stats">
               <div>
                 <h3>IT</h3>
